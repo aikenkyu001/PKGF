@@ -1,0 +1,22 @@
+All experimental resources are published in this repository: https://github.com/aikenkyu001/PKGF
+
+ === PKGF Unified Test (Purified English 12D) ===
+
+Token                    | t      | ||v||      | div_g(KX)  | det(K)    
+ ---------------------------------------------------------------------------
+This Agenda is           |   1.80 |    0.00297 |   1.43E-04 |    1.67668
+a plan of action.        |   3.80 |    0.00303 |  -2.48E-04 |    1.67668
+ ---------------------------------------------------------------------------
+The gears of the void,   |   6.40 |    0.02048 |  -3.15E-02 |    1.67668
+melon bread,             |   8.00 |    0.00912 |  -9.72E-03 |    1.67668
+run backward             |   9.60 |    0.02244 |  -3.69E-02 |    1.67668
+against gravity.         |  11.60 |    0.01614 |  -1.68E-02 |    1.67668
+ ---------------------------------------------------------------------------
+Suddenly, I wake up!     |  13.80 |    0.04009 |   9.44E-02 |    1.67668
+Reflecting deeply        |  15.80 |    0.02384 |  -3.83E-02 |    1.67668
+on my incompetence.      |  18.00 |    0.01916 |  -2.95E-02 |    1.67668
+ ---------------------------------------------------------------------------
+
+ [Scientific Findings]
+ 1. English linguistic flow analyzed with purified 12D geometry.
+ 2. Incoherence and awakening detected as physical spikes.

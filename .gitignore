@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Fortran (fpm) build artifacts
+VM/fortran/build/
+VM/fortran/*.mod
+VM/fortran/*.smod
+
+.DS_Store
+pdf/
