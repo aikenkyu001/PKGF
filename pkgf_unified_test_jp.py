@@ -5,6 +5,7 @@ import sys
 # ============================================================
 # PKGF Unified Test
 # All experimental resources: https://github.com/aikenkyu001/PKGF
+# DOI: https://doi.org/10.5281/zenodo.19217632
 # ============================================================
 
 DIM = 12

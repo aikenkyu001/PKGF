@@ -1,6 +1,7 @@
 # 並行鍵幾何流 (Parallel Key Geometric Flow)
 
 全ての実験リソースはこのレポジトリで公開されています：https://github.com/aikenkyu001/PKGF
+DOI: https://doi.org/10.5281/zenodo.19217632
 
 ## 一. 幾何的舞台 (Geometric Stage)
 - **次元数**: $N = 12$。接束 $TM$ は以下の4セクターに直交分解される：

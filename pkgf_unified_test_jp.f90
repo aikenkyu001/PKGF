@@ -41,6 +41,7 @@ program pkgf_unified_test_jp
 
     print *, "=== PKGF Unified Test (Purified 12D) ==="
     print *, "All experimental resources: https://github.com/aikenkyu001/PKGF"
+    print *, "DOI: https://doi.org/10.5281/zenodo.19217632"
     print *
     
     K = get_author_K()

@@ -4,6 +4,7 @@
 **Date: March 25, 2026**
 
 All experimental resources are published in this repository: https://github.com/aikenkyu001/PKGF
+DOI: https://doi.org/10.5281/zenodo.19217632
 
 ### Abstract
 This report presents initial numerical observations of the **Parallel Key Geometric Flow (PKGF)**, a mathematical framework designed to model semantic transitions within a 12-dimensional tangent bundle $TM$ characterized by contextual metric warping. We define an orthogonal decomposition of the tangent bundle into four sectors, implement dynamic metric modulation based on contextual intensity, and utilize adjoint holonomy updates for the parallel transport of a (1,1) tensor $K$ (the Parallel Key). To validate the internal consistency of the model, we conducted dual-system simulations in Python and Fortran 95 using short-form English linguistic scenarios. Our results demonstrate the stable conservation of the invariant $\det(K)$ within machine precision and clear velocity magnitude $\|v\|$ spikes at semantic phase inversions. This study confirms that the PKGF framework is computationally viable and capable of maintaining algebraic integrity under non-trivial curvature.

@@ -1,4 +1,5 @@
 全ての実験リソースはこのレポジトリで公開されています：https://github.com/aikenkyu001/PKGF
+DOI: https://doi.org/10.5281/zenodo.19217632
 
  === PKGF Unified Test (Purified 12D) ===
 Token          | t      | ||v||      | div_g(KX)  | det(K)     | Note

@@ -1,6 +1,7 @@
 # Parallel Key Geometric Flow (PKGF)
 
 All experimental resources are published in this repository: https://github.com/aikenkyu001/PKGF
+DOI: https://doi.org/10.5281/zenodo.19217632
 
 ## I. The Geometric Stage
 - **Manifold Dimensionality**: $N = 12$. The tangent bundle $TM$ is orthogonally decomposed into four distinct sectors:

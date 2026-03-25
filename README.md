@@ -2,6 +2,7 @@
 ## Purified 12D Manifold Simulation and Linguistic Flow Analysis
 
 All experimental resources are published in this repository: https://github.com/aikenkyu001/PKGF
+DOI: https://doi.org/10.5281/zenodo.19217632
 
 ### Abstract
 This repository implements and validates the **Parallel Key Geometric Flow (PKGF)**, a theoretical framework for simulating semantic transitions in a 12-dimensional tangent bundle $TM$. By modeling narrative structures as geometric flows under contextual warping, PKGF ensures the preservation of logical consistency—represented by the **Parallel Key $K$**—through adjoint holonomy updates and co-differential propulsion.
